@@ -16,20 +16,38 @@
 ## Snelzoekmatrix
 | Casusvraag                                        | Eerste bron                                         | Zoektermen                                                                                             |
 | ------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Mag of moet iemand aangesteld worden?             | Aanstellingsvoorwaarden en bekwaamheidsbewijzen     | `aanstellingsvoorwaarden`, `vereist bekwaamheidsbewijs`, `voldoend geacht`, `ander bekwaamheidsbewijs` |
-| Welk vak mag iemand geven?                        | Databank bekwaamheidsbewijzen                       | `diploma`, `ambt`, `vak`, `secundair onderwijs`                                                        |
-| TABD, TADD, vaste benoeming of dienstanciënniteit | Loopbaan en statuut onderwijspersoneel              | `TABD`, `TADD`, `vaste benoeming`, `dienstanciënniteit`                                                |
-| Loon, salarisbrief of geldelijke anciënniteit     | Salaris onderwijspersoneel                          | `salarisbrief`, `geldelijke anciënniteit`, `verloning`                                                 |
-| Gedrag, plichten of privéleven van een leraar     | Plichten en tucht onderwijspersoneel                | `ambtsgeheim`, `decretale verplichtingen`, `tucht`, `sanctie`, `weerslag op school`                    |
-| Vertrouwelijke info delen                         | Ambtsgeheim en beroepsgeheim                        | `ambtsgeheim`, `beroepsgeheim`, `spreekrecht`, `spreekplicht`, `derden`                                |
-| Ongeval, aansprakelijkheid of schoolverzekering   | Verzekering BA en rechtsbijstand                    | `burgerlijke aansprakelijkheid`, `toezicht`, `zware schuld`, `schoolpolis`                             |
-| Evaluatie, attestering of deliberatie             | Evaluatie secundair onderwijs en BVR organisatie SO | `klassenraad`, `A-attest`, `B-attest`, `C-attest`, `motiveren`                                         |
-| Sanctie of uitsluiting van leerling               | Straffen en uitsluiting                             | `preventieve schorsing`, `tijdelijke uitsluiting`, `definitieve uitsluiting`, `tuchtdossier`           |
-| Niet akkoord met evaluatie of uitsluiting         | Klacht of melding onderwijs                         | `beroepscommissie`, `verzoekschrift`, `schoolreglement`, `klacht`                                      |
-| Inschrijving of weigering                         | Commissie voor Leerlingenrechten                    | `inschrijvingsrecht`, `weigering`, `ontbinding inschrijving`, `CLR`                                    |
-| Participatie, schoolraad of LOC                   | Inspraak en overlegorganen                          | `schoolraad`, `pedagogische raad`, `LOC`, `CPBW`, `Commissie zorgvuldig bestuur`                       |
-| Doorlichting, OK of planlast                      | Onderwijsinspectie                                  | `referentiekader onderwijskwaliteit`, `doorlichting`, `planlastcalculator`, `OK`                       |
-| School of studierichting opzoeken                 | Onderwijsaanbod en Onderwijskiezer                  | `erkende onderwijsinstelling`, `studierichting`, `doorlichtingsverslag`                                |
+| Mag of moet iemand aangesteld worden?             | [Aanstellingsvoorwaarden][aanstellingsvoorwaarden] en [bekwaamheidsbewijzen][bekwaamheidsbewijzen] | `aanstellingsvoorwaarden`, `vereist bekwaamheidsbewijs`, `voldoend geacht`, `ander bekwaamheidsbewijs` |
+| Welk vak mag iemand geven?                        | [Databank bekwaamheidsbewijzen][databank-bekwaamheidsbewijzen]                                    | `diploma`, `ambt`, `vak`, `secundair onderwijs`                                                        |
+| TABD, TADD, vaste benoeming of dienstanciënniteit | [Loopbaan en statuut onderwijspersoneel][loopbaan-ontwikkeling]                                   | `TABD`, `TADD`, `vaste benoeming`, `dienstanciënniteit`                                                |
+| Loon, salarisbrief of geldelijke anciënniteit     | [Salaris onderwijspersoneel][salaris]                                                            | `salarisbrief`, `geldelijke anciënniteit`, `verloning`                                                 |
+| Gedrag, plichten of privéleven van een leraar     | [Plichten en tucht onderwijspersoneel][plichten-tucht]                                           | `ambtsgeheim`, `decretale verplichtingen`, `tucht`, `sanctie`, `weerslag op school`                    |
+| Vertrouwelijke info delen                         | [Ambtsgeheim en beroepsgeheim][ambtsgeheim-beroepsgeheim]                                        | `ambtsgeheim`, `beroepsgeheim`, `spreekrecht`, `spreekplicht`, `derden`                                |
+| Ongeval, aansprakelijkheid of schoolverzekering   | [Verzekering BA en rechtsbijstand][verzekering-ba]                                               | `burgerlijke aansprakelijkheid`, `toezicht`, `zware schuld`, `schoolpolis`                             |
+| Evaluatie, attestering of deliberatie             | [Evaluatie secundair onderwijs][evaluatie-so] en [BVR organisatie SO][bvr-organisatie-so]        | `klassenraad`, `A-attest`, `B-attest`, `C-attest`, `motiveren`                                         |
+| Sanctie of uitsluiting van leerling               | [Straffen en uitsluiting][straffen-uitsluiting]                                                  | `preventieve schorsing`, `tijdelijke uitsluiting`, `definitieve uitsluiting`, `tuchtdossier`           |
+| Niet akkoord met evaluatie of uitsluiting         | [Klacht of melding onderwijs][klacht-melding]                                                    | `beroepscommissie`, `verzoekschrift`, `schoolreglement`, `klacht`                                      |
+| Inschrijving of weigering                         | [Commissie voor Leerlingenrechten][commissie-leerlingenrechten]                                  | `inschrijvingsrecht`, `weigering`, `ontbinding inschrijving`, `CLR`                                    |
+| Participatie, schoolraad of LOC                   | [Inspraak en overlegorganen][inspraak]                                                           | `schoolraad`, `pedagogische raad`, `LOC`, `CPBW`, `Commissie zorgvuldig bestuur`                       |
+| Doorlichting, OK of planlast                      | [Onderwijsinspectie][onderwijsinspectie]                                                         | `referentiekader onderwijskwaliteit`, `doorlichting`, `planlastcalculator`, `OK`                       |
+| School of studierichting opzoeken                 | [Onderwijsaanbod][onderwijsaanbod] en [Onderwijskiezer][onderwijskiezer]                         | `erkende onderwijsinstelling`, `studierichting`, `doorlichtingsverslag`                                |
+
+[aanstellingsvoorwaarden]: https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/starten-in-het-onderwijs/aanstellingsvoorwaarden-voor-onderwijspersoneel
+[bekwaamheidsbewijzen]: https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/starten-in-het-onderwijs/vakken-ambten-en-bekwaamheidsbewijzen
+[databank-bekwaamheidsbewijzen]: https://data-onderwijs.vlaanderen.be/salaris/bekwaamheidsbewijzen
+[loopbaan-ontwikkeling]: https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/loopbaan-en-ontwikkeling
+[salaris]: https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/salaris-onderwijspersoneel
+[plichten-tucht]: https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/plichten-en-tucht-voor-onderwijspersoneel
+[ambtsgeheim-beroepsgeheim]: https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/plichten-en-tucht-voor-onderwijspersoneel/ambtsgeheim-en-beroepsgeheim-in-het-onderwijs
+[verzekering-ba]: https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/salaris-onderwijspersoneel/vergoedingen-en-toelagen-voor-onderwijspersoneel/verzekering-burgerlijke-aansprakelijkheid-en-rechtsbijstand-voor-onderwijspersoneel
+[evaluatie-so]: https://www.vlaanderen.be/onderwijs-en-vorming/evaluaties-in-onderwijsinstellingen/secundair-onderwijs
+[bvr-organisatie-so]: https://data-onderwijs.vlaanderen.be/edulex/document/16008#6
+[straffen-uitsluiting]: https://www.vlaanderen.be/onderwijs-en-vorming/wat-mag-en-moet-op-school/afspraken-op-school/straffen-en-uitsluiting-in-basis-en-secundair-onderwijs
+[klacht-melding]: https://www.vlaanderen.be/onderwijs-en-vorming/klacht-of-melding-onderwijs
+[commissie-leerlingenrechten]: https://www.vlaanderen.be/onderwijsprofessionals/organisatie-en-administratie/leerlingen-cursisten-en-studentenadministratie/leerlingenadministratie-basis-en-secundair-onderwijs/leerlingen-aanmelden-en-inschrijven/commissie-leerlingenrechten
+[inspraak]: https://www.vlaanderen.be/onderwijsprofessionals/werken-in-het-onderwijs/werkomgeving/inspraak
+[onderwijsinspectie]: https://www.onderwijsinspectie.be/
+[onderwijsaanbod]: https://data-onderwijs.vlaanderen.be/onderwijsaanbod/
+[onderwijskiezer]: https://www.onderwijskiezer.be/
 
 ## Primaire bronnen
 - [Onderwijs Vlaanderen voor onderwijsprofessionals](https://www.vlaanderen.be/onderwijsprofessionals) - startpagina voor leraren, directies, besturen en administraties.

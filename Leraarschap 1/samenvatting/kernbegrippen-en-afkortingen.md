@@ -109,8 +109,8 @@
 | --- | --- |
 | Didactisch redeneren | Keuzes in je les verantwoorden vanuit doelen, beginsituatie, inhoud, aanpak en evaluatie. |
 | Lesvoorbereiding / LVB | Concrete neerslag van je didactische keuzes in een lesontwerp. |
-| Wijze lessen | Kader met 12 bouwstenen voor effectieve didactiek. |
-| 12 bouwstenen | Praktische didactische principes zoals voorkennis activeren, duidelijke instructie geven, actief verwerken, feedback geven en effectief leren aanleren. |
+| Wijze lessen | Synthesekader dat helpt om de lessen van LER1 samen te brengen. |
+| 12 bouwstenen | Niet als aparte lijst te memoriseren; vooral gebruiken als samenvatting van terugkerende didactische principes uit de verschillende lessen. |
 
 ## Begrippen die je zeker moet kunnen verbinden
 - `Kwalificatie`, `socialisatie` en `subjectivering` met je eigen onderwijsvisie.

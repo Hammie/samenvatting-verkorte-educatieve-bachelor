@@ -42,6 +42,7 @@
 ### Functie van de oefening
 - De studenten koppelen per bouwsteen uit `Wijze lessen` de geziene leerstof uit `LER1` terug aan een didactisch principe.
 - Die oefening maakt zichtbaar dat de verschillende kaders uit de cursus elkaar niet tegenspreken, maar vaak overlappen en elkaar aanvullen.
+- De 12 bouwstenen moeten niet als aparte lijst gememoriseerd worden voor de kennistoets. Ze zijn vooral een bruikbaar `syntheserooster` om de verschillende lessen samen te vatten.
 
 ### De 12 bouwstenen
 | Bouwsteen | Kern |

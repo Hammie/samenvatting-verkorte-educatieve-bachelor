@@ -8,6 +8,7 @@ Volgens de verwerkte examenafbakening moet je deze onderdelen niet kennen voor d
 
 - De informatie uit `Les 1 - Visie op onderwijs`, inclusief thema's zoals `SOT`, `Biesta`, onderwijsvisie, kwalificatie, socialisatie en subjectivering.
 - De `didactische werkvormen` als afzonderlijke leerstof.
+- De `12 bouwstenen van Wijze Lessen` moeten niet als aparte lijst expliciet gekend zijn. Gebruik ze vooral als handige samenvatting om verbanden tussen de lessen te zien.
 
 ## Examenfocus
 

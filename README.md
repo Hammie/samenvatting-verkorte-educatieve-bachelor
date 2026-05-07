@@ -5,6 +5,7 @@ Deze repository verzamelt onofficiele studenten-notities per vak. De inhoud is b
 ## Vakken
 
 - [Leraarschap 1](Leraarschap%201/README.md)
+- [Leerkracht in Onderwijs](Leerkracht%20in%20Onderwijs/README.md)
 
 ## Gebruik
 

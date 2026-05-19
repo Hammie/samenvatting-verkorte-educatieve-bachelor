@@ -13,9 +13,13 @@ Gebruik deze checklist om te controleren of je de leerstof actief kunt toepassen
 
 - [ ] Les 1: ik kan kwalificatie, socialisatie en subjectivering uitleggen en verbinden met mijn onderwijsvisie.
 - [ ] Les 2: ik kan warm klasklimaat, welbevinden, groeimindset, groeitaal en leraarverwachtingen toepassen.
+- [ ] Les 2: ik kan uitleggen hoe expliciete acties en impliciet klasklimaat samen welbevinden ondersteunen.
+- [ ] Les 2: ik kan de kritiek op `pretpedagogie` genuanceerd bespreken zonder kennisopbouw en welbevinden tegenover elkaar te zetten.
 - [ ] Les 3: ik kan het didactisch model gebruiken om een les te analyseren of te ontwerpen.
+- [ ] Les 3: ik kan minstens drie cooperatieve structuren koppelen aan GIPS.
 - [ ] Les 4: ik kan sterke leerdoelen formuleren en feedback koppelen aan feed up, feed back en feed forward.
 - [ ] Les 5: ik kan breinprincipes, executieve functies en leerstrategieen vertalen naar concrete leskeuzes.
+- [ ] Les 5: ik kan een EF-zelfscan lezen als aanleiding voor ondersteuning, niet als vast label.
 - [ ] Les 6: ik kan motivatie verklaren met ZDT, ABC, attributie en het Leraarkompas.
 - [ ] Les 7: ik kan adolescentie gebruiken om beginsituatie, gedrag en ondersteuning beter te begrijpen.
 - [ ] Les 8: ik kan LER1 samenvatten als een kader voor didactisch redeneren en lesvoorbereiding.

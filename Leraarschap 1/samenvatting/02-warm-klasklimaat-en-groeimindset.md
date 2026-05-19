@@ -18,6 +18,7 @@
 
 ## Warm klasklimaat en welbevinden
 ### Waarom is welbevinden belangrijk?
+- Welbevinden is breder dan "je goed voelen": het omvat fysieke en mentale gezondheid, met voor leerlingen ook emotioneel, psychologisch, sociaal en academisch welbevinden.
 - Positieve emoties zoals kalmte, interesse, trots en enthousiasme ondersteunen het cognitieve, emotionele, fysieke en sociale functioneren.
 - Stress en negatieve emoties belemmeren het leervermogen en verstoren executieve functies.
 - De les sluit aan bij het idee dat `zonder verbinding geen leren` mogelijk is.
@@ -25,7 +26,20 @@
 ### Welbevinden in de schoolcontext
 - Welbevinden kan expliciet bevorderd worden via aparte initiatieven of programma's.
 - Het kan ook impliciet bevorderd worden via een positieve benadering in de dagelijkse school- en klaspraktijk.
+- Eenmalige acties blijven kwetsbaar: duurzaam welbevinden vraagt een schoolbrede aanpak waarin ethos, organisatie, communicatie en pedagogische praktijk dezelfde richting uitgaan.
 - De les positioneert welbevinden als een pijler van goed onderwijs, niet als een extraatje naast "echte" leerinhoud.
+
+### Concrete ingangen voor welbevinden
+- De Leer- & Veerkracht-bron maakt welbevinden praktisch via trainbare gewoontes zoals dankbaarheid, optimisme, vriendelijkheid, sociale relaties, coping, flow, bewust genieten, doelen stellen, zingeving, zorg voor lichaam en geest, en het inzetten van sterke kanten.
+- Voor de klas betekent dit niet dat je al die strategieen apart moet onderwijzen, maar wel dat je lesklimaat kansen kan geven voor positieve emoties, verbondenheid, haalbare doelen en het herkennen van kwaliteiten.
+- `Positief onderwijs` combineert daarom prestatie en leerdoelen met vaardigheden die veerkracht, samenwerking en welbevinden ondersteunen.
+
+### Nuance rond `pretpedagogie`
+- De video over `pretpedagogie` vertrekt van de kritiek dat welbevinden, differentiatie en plezier de kennisoverdracht zouden verdringen.
+- De conclusie is genuanceerder: er is geen wetenschappelijk bewijs dat aandacht voor welbevinden of differentiatie op zich de daling van onderwijskwaliteit veroorzaakt.
+- Kennis en welbevinden versterken elkaar: basiskennis kan motivatie en studiegedrag ondersteunen, terwijl leerlingen die zich slecht voelen minder efficient leren.
+- Een `one size fits all`-model werkt niet goed in diverse klassen, maar dat betekent niet dat klassikale instructie moet verdwijnen.
+- De kern is variatie met didactische bedoeling: soms klassikaal, soms in groep, soms individueel; niet "alles plezant maken", maar het juiste middel op het juiste moment inzetten.
 
 ### Verbinding maken vanaf de start
 - De start van een les is een cruciaal moment om verbinding te maken.
@@ -108,6 +122,8 @@
 ## Wat neem je hier best uit mee?
 - Relatie en leren staan niet tegenover elkaar; relatie is een voorwaarde voor leren.
 - Welbevinden ondersteunt leerkracht en aandacht, het ondermijnt die niet.
+- Welbevinden groeit vooral wanneer expliciete aandacht en impliciet klasklimaat elkaar versterken.
+- De discussie over `pretpedagogie` vraagt nuance: plezier, differentiatie en welbevinden zijn pas sterk wanneer ze doelgericht verbonden blijven met kennisopbouw.
 - Een warm klasklimaat ontstaat uit dagelijkse, concrete interacties.
 - Groeimindset vraagt meer dan slogans: ze vraagt consequent taalgebruik, feedback en verwachtingen die groei mogelijk maken.
 - De houding van de leraar werkt door in de houding van leerlingen tegenover fouten, inspanning en uitdaging.

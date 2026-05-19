@@ -121,6 +121,18 @@
 - opdrachten kiezen waarbij samenwerking echt noodzakelijk is;
 - werkvormen zoals de `placemat-methode` gebruiken.
 
+### Concrete cooperatieve structuren
+| Structuur | Didactische waarde |
+| --- | --- |
+| Mix-tweetal-gesprek | Leerlingen bewegen, vormen snel wisselende duo's en beantwoorden een gerichte vraag na denktijd. |
+| Genummerde koppen bij elkaar | Iedereen denkt mee, want elk groepslid kan aangesproken worden om het teamantwoord te geven. |
+| Binnen-buitenkring | Duo's wisselen snel, waardoor veel leerlingen tegelijk spreken, herhalen en vergelijken. |
+| Flitskaarten in tutor-tutee | Leerlingen oefenen in rondes met steeds minder ondersteuning en geven elkaar feedback. |
+| Tafel dekken | Leerlingen maken eerst individueel ideeen zichtbaar op kaartjes en ordenen die daarna samen. |
+| Rondpraat | Elk groepslid krijgt beurtelings ruimte om een keuze, redenering of antwoord te verwoorden. |
+
+- Deze structuren zijn alleen echt cooperatief wanneer ze GIPS ondersteunen. Een werkvormnaam volstaat dus niet: de leraar moet deelname, aanspreekbaarheid, afhankelijkheid en simultane actie mee ontwerpen.
+
 ## Oefeningen en opdrachten uit de les
 - Video-analyse van een lesfragment met de observatiekijkwijzer.
 - Analyse van leerinhouden, groeperingsvormen, werkvormen, media, opvoedingsrelatie, leerdoelen, beginsituatie en evaluatie.

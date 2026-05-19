@@ -125,7 +125,14 @@
 - organisatie;
 - timemanagement;
 - doelgericht gedrag;
-- metacognitie.
+- metacognitie;
+- stresstolerantie.
+
+### EF-vragenlijst als zelfscan
+- De vragenlijst laat leerlingen of leraren zichzelf scoren op concrete gedragingen, niet op abstracte labels.
+- Telkens drie items horen bij een executieve functie; de hoogste en laagste totaalscores maken sterke en zwakke functies zichtbaar.
+- De lijst dekt reactie-inhibitie, werkgeheugen, emotieregulatie, taakinitiatie, volgehouden aandacht, planning/prioritering, organisatie, timemanagement, flexibiliteit, metacognitie, doelgericht gedrag en stresstolerantie.
+- Didactisch gebruik je zo'n zelfscan niet om leerlingen vast te pinnen, maar om ondersteuning te kiezen: bijvoorbeeld meer stappenplannen, kortere deadlines, externe geheugensteunen, emotieregulatie of reflectievragen.
 
 ### Wat betekent dit voor de leraar?
 - De leraar is vaak de `externe prefrontale cortex`.

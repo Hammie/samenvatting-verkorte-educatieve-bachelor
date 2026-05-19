@@ -33,8 +33,11 @@
 | Begrip | Korte betekenis |
 | --- | --- |
 | Warm klasklimaat | Een klascontext met veiligheid, relatie, erkenning en vertrouwen. |
-| Welbevinden | De mate waarin leerlingen zich goed, veilig en gedragen voelen. |
+| Welbevinden | Brede fysieke en mentale gezondheid, met in onderwijs ook emotioneel, psychologisch, sociaal en academisch welbevinden. |
 | Verbindende interactie | Manier van omgaan waarbij relatie en respect centraal staan. |
+| Integrale aanpak welbevinden | Schoolbrede aanpak waarin expliciete programma's en impliciet klimaat elkaar versterken. |
+| Positief onderwijs | Onderwijs dat prestatie en kwalificatie combineert met veerkracht, positieve relaties en welbevinden. |
+| Pretpedagogie | Kritische term voor onderwijs dat volgens tegenstanders te veel inzet op plezier, welbevinden of zelfontdekkend leren; vraagt nuance omdat kennisopbouw, welbevinden en variatie elkaar kunnen versterken. |
 | Fixed mindset | Overtuiging dat capaciteiten grotendeels vastliggen. |
 | Groeimindset | Overtuiging dat capaciteiten kunnen groeien via oefening, feedback en strategie. |
 | Groeitaal | Taal die inzet, proces en ontwikkeling benadrukt. |
@@ -76,6 +79,8 @@
 | Voortbouwen | Aansluiten bij voorkennis en leefwereld. |
 | Executieve functies | Controle-, plan- en regulatiefuncties die doelgericht gedrag mogelijk maken. |
 | Metacognitie | Denken over je eigen denken en leren. |
+| Stresstolerantie | Kunnen blijven functioneren bij druk, spanning of onvoorspelbaarheid. |
+| EF-zelfscan | Vragenlijst die sterke en zwakke executieve functies zichtbaar maakt als startpunt voor ondersteuning. |
 | VAT | Voorbereiden, Aanpakken, Terugblikken als leerstrategie. |
 
 ## Kernbegrippen uit les 6
